@@ -18,7 +18,7 @@ There are several questions that we would like to answer using this analysis:
 4. How many rooms do most listings have and which ones are the most pricey?
 5. What are the most common amenities across listings and which ones usually exist in the most expensive listings?
 
-You can find the blog post regarding this analysis [here].
+You can find the blog post regarding this analysis [here](https://medium.com/@adityautamawijaya/seattle-airbnb-better-experience-or-lower-price-4d7c18eca87b).
 
 ## Author
 [Adi Wijaya](https://www.linkedin.com/in/aditya-utama-wijaya/)
